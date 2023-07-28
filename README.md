@@ -4,5 +4,5 @@
 - 파이썬 딥러닝 텐서플로
 - Kaggle
 ---
-텍스트분석 발표(2023.05.08.)
-[텍스트분석.pdf](https://github.com/hyunseo318/ESAA_23-1/files/12191362/default.pdf)
+## 텍스트분석 발표(2023.05.08.)
+- [텍스트분석.pdf](https://github.com/hyunseo318/ESAA_23-1/files/12191362/default.pdf)
