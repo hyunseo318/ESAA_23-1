@@ -6,3 +6,9 @@
 ---
 텍스트분석 발표(2023.05.08.)
 - [텍스트분석.pdf](https://github.com/hyunseo318/ESAA_23-1/files/12191362/default.pdf)
+
+합성곱신경망(CNN) 발표(2023.05.28.)
+- [CNN.pdf](https://github.com/hyunseo318/ESAA_23-1/files/12191469/CNN.pdf)
+
+논문 리뷰 발표(2023.06.26.)
+- [논문스터디.pdf](https://github.com/hyunseo318/ESAA_23-1/files/12191382/default.pdf)
